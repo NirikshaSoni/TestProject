@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T13:34:27.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="9WrULrbtOw56hP__D8RQ" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T13:36:06.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="8X0OefLqvwWojaN1L4hN" version="14.2.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="868" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="990" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,12 +213,6 @@
         </mxCell>
         <mxCell id="qpwMRRzFSCX7sDUk1qbA-89" value="entered Points(int(10))" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="qpwMRRzFSCX7sDUk1qbA-87">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qpwMRRzFSCX7sDUk1qbA-1" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="36" y="160" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qpwMRRzFSCX7sDUk1qbA-12" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="32.5" y="190" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qpwMRRzFSCX7sDUk1qbA-25" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="387" y="180" width="30" height="30" as="geometry" />
